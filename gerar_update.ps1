@@ -12,10 +12,12 @@ Copy-Item "$src\Naruto Online.exe" "$tmp\Naruto Online.exe" -Force
 Copy-Item "$src\ActualizarLauncher.exe" "$tmp\ActualizarLauncher.new.exe" -Force
 Copy-Item "$src\CustomOverrides\ninjaplugin.swf" "$tmp\CustomOverrides\ninjaplugin.swf" -Force
 Copy-Item "$src\CustomOverrides\battleplugin_opt.swf" "$tmp\CustomOverrides\battleplugin_opt.swf" -Force
-Copy-Item "$src\CustomOverrides\KonohaHubPanel.swf" "$tmp\CustomOverrides\KonohaHubPanel.swf" -Force
+Copy-Item "$src\CustomOverrides\DurkharPanel.swf" "$tmp\CustomOverrides\DurkharPanel.swf" -Force
 Copy-Item "$src\CustomOverrides\secretrollplugin.swf" "$tmp\CustomOverrides\secretrollplugin.swf" -Force
 Copy-Item "$src\CustomOverrides\19001001_outdoor.swf" "$tmp\CustomOverrides\19001001_outdoor.swf" -Force
 Copy-Item "$src\CustomOverrides\NinjaOutdoorEffectInfos.xml" "$tmp\CustomOverrides\NinjaOutdoorEffectInfos.xml" -Force
+# Ciclo dia/tarde/noite pela hora do servidor + sombras dos personagens
+Copy-Item "$src\CustomOverrides\mapplugin.swf" "$tmp\CustomOverrides\mapplugin.swf" -Force
 $zipPath = Join-Path $repo "update.zip"
 if (Test-Path $zipPath) { Remove-Item $zipPath -Force }
 Add-Type -AssemblyName System.IO.Compression.FileSystem

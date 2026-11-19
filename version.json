@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.4",
-    "notes":  "El actualizador ahora pide permisos de administrador automaticamente cuando el launcher esta en Archivos de Programa (corrige \u0027acceso denegado\u0027). Incluye las novedades de la 1.4.3: Rollos Secretos y Madara en la base del clan.",
+    "version":  "1.4.5",
+    "notes":  "Ciclo dia/tarde/noche segun la hora del servidor, sombras bajo los personajes, nueva barra superior, correcciones de sonido (multiples cuentas y silencio aleatorio).",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "d077c73f6a9a91151d86014dec928749ade9a3acd3e8d92a7b898199de72be20"
+    "sha256":  "9a5430f37b020dec8ad1f55c2d530c4fd073915b8d679e0d7820b60a4b7f1241"
 }
