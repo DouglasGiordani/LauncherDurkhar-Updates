@@ -7,6 +7,9 @@ $src = "C:\Users\sites2\Documents\Nova pasta\Launcher Durkhar"
 $tmp = Join-Path $env:TEMP ("durkhar_pkg_" + [Guid]::NewGuid().ToString("N"))
 New-Item -ItemType Directory -Force -Path "$tmp\CustomOverrides" | Out-Null
 Copy-Item "$src\Naruto Online.exe" "$tmp\Naruto Online.exe" -Force
+# O atualizador vai como .new.exe: o ActualizarLauncher.exe em uso nao pode ser sobrescrito;
+# o novo se promove sozinho (e pede UAC quando o launcher esta em Program Files).
+Copy-Item "$src\ActualizarLauncher.exe" "$tmp\ActualizarLauncher.new.exe" -Force
 Copy-Item "$src\CustomOverrides\ninjaplugin.swf" "$tmp\CustomOverrides\ninjaplugin.swf" -Force
 Copy-Item "$src\CustomOverrides\battleplugin_opt.swf" "$tmp\CustomOverrides\battleplugin_opt.swf" -Force
 Copy-Item "$src\CustomOverrides\KonohaHubPanel.swf" "$tmp\CustomOverrides\KonohaHubPanel.swf" -Force

@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.3",
-    "notes":  "Rollos Secretos: muestra que atributos sube cada rollo al pasar el mouse. Madara (Seis Caminos) con efectos en la base del clan (Gran Guerra Ninja).",
+    "version":  "1.4.4",
+    "notes":  "El actualizador ahora pide permisos de administrador automaticamente cuando el launcher esta en Archivos de Programa (corrige \u0027acceso denegado\u0027). Incluye las novedades de la 1.4.3: Rollos Secretos y Madara en la base del clan.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "a5b94a7462e92b267dd03f370364f719fca9809ba360537f61e389c7425ab66b"
+    "sha256":  "d077c73f6a9a91151d86014dec928749ade9a3acd3e8d92a7b898199de72be20"
 }
