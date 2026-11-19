@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "notes": "Simulador de Combos en Español, Fragmentos en Cofres, Ilusión 3x, Rollos Secretos, Arena y Audio optimizado.",
-  "zipUrl": "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-  "sha256": "3d8809d32260e1660e31d9792c56ae39ff7104eea2190875a2b06a7c79d41464"
+    "version":  "1.4.3",
+    "notes":  "Rollos Secretos: muestra que atributos sube cada rollo al pasar el mouse. Madara (Seis Caminos) con efectos en la base del clan (Gran Guerra Ninja).",
+    "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
+    "sha256":  "a5b94a7462e92b267dd03f370364f719fca9809ba360537f61e389c7425ab66b"
 }

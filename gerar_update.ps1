@@ -10,6 +10,9 @@ Copy-Item "$src\Naruto Online.exe" "$tmp\Naruto Online.exe" -Force
 Copy-Item "$src\CustomOverrides\ninjaplugin.swf" "$tmp\CustomOverrides\ninjaplugin.swf" -Force
 Copy-Item "$src\CustomOverrides\battleplugin_opt.swf" "$tmp\CustomOverrides\battleplugin_opt.swf" -Force
 Copy-Item "$src\CustomOverrides\KonohaHubPanel.swf" "$tmp\CustomOverrides\KonohaHubPanel.swf" -Force
+Copy-Item "$src\CustomOverrides\secretrollplugin.swf" "$tmp\CustomOverrides\secretrollplugin.swf" -Force
+Copy-Item "$src\CustomOverrides\19001001_outdoor.swf" "$tmp\CustomOverrides\19001001_outdoor.swf" -Force
+Copy-Item "$src\CustomOverrides\NinjaOutdoorEffectInfos.xml" "$tmp\CustomOverrides\NinjaOutdoorEffectInfos.xml" -Force
 $zipPath = Join-Path $repo "update.zip"
 if (Test-Path $zipPath) { Remove-Item $zipPath -Force }
 Add-Type -AssemblyName System.IO.Compression.FileSystem
