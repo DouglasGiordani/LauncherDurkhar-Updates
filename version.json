@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.7",
-    "notes":  "Correccion: el Test de Habilidad del ninja se actualiza al elegir una habilidad, sin tener que salir y entrar del ninja.",
+    "version":  "1.4.8",
+    "notes":  "Nueva pantalla de inicio: elegir cuentas y abrirlas todas (bloques de 5/10/15/20), importar cuentas por .txt, Vista multiple (varias cuentas en una ventana), sonido por pestana, calidad grafica, pestanas de fondo en reposo y optimizaciones para 10 cuentas.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "21efaf39f2f76ad0093a816512d9c5fbe200b7ea2bb5eb9aaded0021ee46287c"
+    "sha256":  "1457d83c3d81c05aa6dbeb3961646f254e1fb69ff7f10cbbcd0806067b7bc68a"
 }
