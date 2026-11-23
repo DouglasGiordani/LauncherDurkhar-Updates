@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.5",
-    "notes":  "Ciclo dia/tarde/noche segun la hora del servidor, sombras bajo los personajes, nueva barra superior, correcciones de sonido (multiples cuentas y silencio aleatorio).",
+    "version":  "1.4.6",
+    "notes":  "Optimizaciones de rendimiento: sin escritura de logs durante el juego, limpieza automatica de RAM sin tirones, mayor prioridad para el juego. Sin quitar animaciones.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "9a5430f37b020dec8ad1f55c2d530c4fd073915b8d679e0d7820b60a4b7f1241"
+    "sha256":  "ba689a98a6fcc91d7ca9d64e2a761e9c3890859586e5bf5c330f92bdfcfa7379"
 }
