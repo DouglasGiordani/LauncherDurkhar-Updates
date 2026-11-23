@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.6",
-    "notes":  "Optimizaciones de rendimiento: sin escritura de logs durante el juego, limpieza automatica de RAM sin tirones, mayor prioridad para el juego. Sin quitar animaciones.",
+    "version":  "1.4.7",
+    "notes":  "Correccion: el Test de Habilidad del ninja se actualiza al elegir una habilidad, sin tener que salir y entrar del ninja.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "ba689a98a6fcc91d7ca9d64e2a761e9c3890859586e5bf5c330f92bdfcfa7379"
+    "sha256":  "21efaf39f2f76ad0093a816512d9c5fbe200b7ea2bb5eb9aaded0021ee46287c"
 }
