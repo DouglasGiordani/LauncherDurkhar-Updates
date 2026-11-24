@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.9",
-    "notes":  "Quitar y asignar grupo a varias cuentas marcadas, abrir de 10 en 10 con el boton Siguientes 10, y Repetir en todas (lo que haces en una cuenta se repite en las demas).",
+    "version":  "1.4.10",
+    "notes":  "Repetir en todas: teclado corregido (letras, acentos, Enter y Backspace se repiten bien en todas las cuentas).",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "43c570ea23c744a1cc23223a10d182f76a6e4043486c1c8ed79ac55549b67e6a"
+    "sha256":  "0b5b15806f7a5a30e42dcf5b9dfbf5e166da10c33aea48865decf0c088a215e5"
 }
