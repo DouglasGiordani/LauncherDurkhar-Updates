@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.8",
-    "notes":  "Nueva pantalla de inicio: elegir cuentas y abrirlas todas (bloques de 5/10/15/20), importar cuentas por .txt, Vista multiple (varias cuentas en una ventana), sonido por pestana, calidad grafica, pestanas de fondo en reposo y optimizaciones para 10 cuentas.",
+    "version":  "1.4.9",
+    "notes":  "Quitar y asignar grupo a varias cuentas marcadas, abrir de 10 en 10 con el boton Siguientes 10, y Repetir en todas (lo que haces en una cuenta se repite en las demas).",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "1457d83c3d81c05aa6dbeb3961646f254e1fb69ff7f10cbbcd0806067b7bc68a"
+    "sha256":  "43c570ea23c744a1cc23223a10d182f76a6e4043486c1c8ed79ac55549b67e6a"
 }
