@@ -18,6 +18,10 @@ Copy-Item "$src\CustomOverrides\19001001_outdoor.swf" "$tmp\CustomOverrides\1900
 Copy-Item "$src\CustomOverrides\NinjaOutdoorEffectInfos.xml" "$tmp\CustomOverrides\NinjaOutdoorEffectInfos.xml" -Force
 # Ciclo dia/tarde/noite pela hora do servidor + sombras dos personagens
 Copy-Item "$src\CustomOverrides\mapplugin.swf" "$tmp\CustomOverrides\mapplugin.swf" -Force
+# Titulo 999999 com a arte original do jogo (substitui uma versao antiga personalizada)
+Copy-Item "$src\CustomOverrides\999999.swf" "$tmp\CustomOverrides\999999.swf" -Force
+# Titulo 400012 com arte personalizada
+Copy-Item "$src\CustomOverrides\400012.swf" "$tmp\CustomOverrides\400012.swf" -Force
 $zipPath = Join-Path $repo "update.zip"
 if (Test-Path $zipPath) { Remove-Item $zipPath -Force }
 Add-Type -AssemblyName System.IO.Compression.FileSystem

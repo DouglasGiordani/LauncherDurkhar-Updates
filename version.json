@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.10",
-    "notes":  "Repetir en todas: teclado corregido (letras, acentos, Enter y Backspace se repiten bien en todas las cuentas).",
+    "version":  "1.4.11",
+    "notes":  "Titulo 999999 con su arte original del juego y nueva arte para el titulo 400012.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "0b5b15806f7a5a30e42dcf5b9dfbf5e166da10c33aea48865decf0c088a215e5"
+    "sha256":  "9a34865ef83b1b5988b3a3f7fb1d267acf6f031bd38176d0bbc24dd90611038d"
 }
