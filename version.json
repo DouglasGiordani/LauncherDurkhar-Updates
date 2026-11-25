@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.11",
-    "notes":  "Titulo 999999 con su arte original del juego y nueva arte para el titulo 400012.",
+    "version":  "1.4.12",
+    "notes":  "Servidor BR: textos de eventos que aparecian como codigo (as_activity_...) ahora se muestran traducidos al portugues.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "9a34865ef83b1b5988b3a3f7fb1d267acf6f031bd38176d0bbc24dd90611038d"
+    "sha256":  "6982c6b3fbe9e7bc15bfefd471d28f90907b55781105b9d1aedd4a2125a42d98"
 }
