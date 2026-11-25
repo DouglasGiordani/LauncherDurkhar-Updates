@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.12",
-    "notes":  "Servidor BR: textos de eventos que aparecian como codigo (as_activity_...) ahora se muestran traducidos al portugues.",
+    "version":  "1.4.13",
+    "notes":  "Macros (grabar y reproducir en todas las cuentas), sonido en la Vista multiple y combates mas rapidos con cache en RAM compartida entre cuentas.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "6982c6b3fbe9e7bc15bfefd471d28f90907b55781105b9d1aedd4a2125a42d98"
+    "sha256":  "e86b9bfd1dc51df51fe30b835f131dbf0172c76d085413bfeaee3bd1ed1d8fe6"
 }
