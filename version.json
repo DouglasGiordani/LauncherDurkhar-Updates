@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.13",
-    "notes":  "Macros (grabar y reproducir en todas las cuentas), sonido en la Vista multiple y combates mas rapidos con cache en RAM compartida entre cuentas.",
+    "version":  "1.4.14",
+    "notes":  "Se quita el cache de combate en RAM: los combates vuelven a funcionar como antes.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "e86b9bfd1dc51df51fe30b835f131dbf0172c76d085413bfeaee3bd1ed1d8fe6"
+    "sha256":  "29b59c5f09b3817b5e86cb565eee45dcb1d133680e382ffa743f193177e2bcd5"
 }
