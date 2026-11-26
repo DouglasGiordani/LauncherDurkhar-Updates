@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.14",
-    "notes":  "Se quita el cache de combate en RAM: los combates vuelven a funcionar como antes.",
+    "version":  "1.4.15",
+    "notes":  "Nuevo evento Atrapa Tangyuan funcionando y boton AUTO en Entrenamiento de Ninjutsu (completa los sellos solo).",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "29b59c5f09b3817b5e86cb565eee45dcb1d133680e382ffa743f193177e2bcd5"
+    "sha256":  "d959a3d1b9bbd9494ab0658f23cc6c60382e62e629d7593d8c6be31ff407e864"
 }

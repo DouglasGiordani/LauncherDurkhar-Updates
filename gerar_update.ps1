@@ -20,6 +20,8 @@ Copy-Item "$src\CustomOverrides\NinjaOutdoorEffectInfos.xml" "$tmp\CustomOverrid
 Copy-Item "$src\CustomOverrides\mapplugin.swf" "$tmp\CustomOverrides\mapplugin.swf" -Force
 # Titulo 999999 com a arte original do jogo (substitui uma versao antiga personalizada)
 Copy-Item "$src\CustomOverrides\999999.swf" "$tmp\CustomOverrides\999999.swf" -Force
+# Plugin de eventos: melhorias + eventos novos do servidor + AUTO no Entrenamiento de Ninjutsu
+Copy-Item "$src\CustomOverrides\OperatingActivityPlugin.swf" "$tmp\CustomOverrides\OperatingActivityPlugin.swf" -Force
 # Titulo 400012 com arte personalizada
 Copy-Item "$src\CustomOverrides\400012.swf" "$tmp\CustomOverrides\400012.swf" -Force
 $zipPath = Join-Path $repo "update.zip"
