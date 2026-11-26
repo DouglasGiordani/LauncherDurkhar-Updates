@@ -22,6 +22,8 @@ Copy-Item "$src\CustomOverrides\mapplugin.swf" "$tmp\CustomOverrides\mapplugin.s
 Copy-Item "$src\CustomOverrides\999999.swf" "$tmp\CustomOverrides\999999.swf" -Force
 # Plugin de eventos: melhorias + eventos novos do servidor + AUTO no Entrenamiento de Ninjutsu
 Copy-Item "$src\CustomOverrides\OperatingActivityPlugin.swf" "$tmp\CustomOverrides\OperatingActivityPlugin.swf" -Force
+# Minijogo do Atrapa Tangyuan (evento 800191) com o botao AUTO
+Copy-Item "$src\CustomOverrides\800191.swf" "$tmp\CustomOverrides\800191.swf" -Force
 # Titulo 400012 com arte personalizada
 Copy-Item "$src\CustomOverrides\400012.swf" "$tmp\CustomOverrides\400012.swf" -Force
 $zipPath = Join-Path $repo "update.zip"

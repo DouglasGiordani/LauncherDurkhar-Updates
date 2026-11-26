@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.16",
-    "notes":  "Boton AUTO del Entrenamiento de Ninjutsu con nuevo diseno, debajo de los sellos.",
+    "version":  "1.4.17",
+    "notes":  "Boton AUTO en el minijuego Atrapa Tangyuan",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "3a66bb46c9b3a4e16985507b39efa17bd91be44a6cf685f8a57294cde9a5491b"
+    "sha256":  "175768a8726acd1f385fac02d447c1b0be35593e51b71bb8c509a86e59d07ba3"
 }
