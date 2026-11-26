@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.15",
-    "notes":  "Nuevo evento Atrapa Tangyuan funcionando y boton AUTO en Entrenamiento de Ninjutsu (completa los sellos solo).",
+    "version":  "1.4.16",
+    "notes":  "Boton AUTO del Entrenamiento de Ninjutsu con nuevo diseno, debajo de los sellos.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "d959a3d1b9bbd9494ab0658f23cc6c60382e62e629d7593d8c6be31ff407e864"
+    "sha256":  "3a66bb46c9b3a4e16985507b39efa17bd91be44a6cf685f8a57294cde9a5491b"
 }
