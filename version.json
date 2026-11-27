@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.21",
-    "notes":  "NPCs de la villa y del clan vuelven al original (quedan Madara y la villa de la lluvia)",
+    "version":  "1.4.22",
+    "notes":  "Botones de la barra separados, logo en la barra del juego y AUTO del Atrapa Tangyuan esquiva mejor las bombas",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "a18c3b02a985f5996b37cfd14e40ed2ae4dfe7133611f055b81c00f8d5307af8"
+    "sha256":  "987986dd123db3cfb1f5759bf0b310256e66263e7cdcb16917e8b98d172e7768"
 }
