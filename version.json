@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.20",
-    "notes":  "Datos del launcher (Durkhar), actualizador nuevo, ir directo al servidor cuando la lista falla",
+    "version":  "1.4.21",
+    "notes":  "NPCs de la villa y del clan vuelven al original (quedan Madara y la villa de la lluvia)",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "8f4c13cfb3cec404abf9b6e7c700b250e050f8874ef72133a0fd65898dff9acd"
+    "sha256":  "a18c3b02a985f5996b37cfd14e40ed2ae4dfe7133611f055b81c00f8d5307af8"
 }
