@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.18",
-    "notes":  "Optimiz mejorado: modo ligero con calidad Media y carga previa de archivos para menos tirones",
+    "version":  "1.4.19",
+    "notes":  "Abrir cuentas de 4/6/8/10, numeracion, busqueda, servidor por cuenta y recarga automatica cuando la pagina queda en Descargando",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "8c799d17185d90a39cdccda2011eddc10a5199888aecb1dccc07ab59cba33024"
+    "sha256":  "648808c279ab0ea629742c6e82dd9f0d921ab3cb339eecee23737232eb933c14"
 }
