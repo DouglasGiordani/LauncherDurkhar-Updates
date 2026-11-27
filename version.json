@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.19",
-    "notes":  "Abrir cuentas de 4/6/8/10, numeracion, busqueda, servidor por cuenta y recarga automatica cuando la pagina queda en Descargando",
+    "version":  "1.4.20",
+    "notes":  "Datos del launcher (Durkhar), actualizador nuevo, ir directo al servidor cuando la lista falla",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "648808c279ab0ea629742c6e82dd9f0d921ab3cb339eecee23737232eb933c14"
+    "sha256":  "8f4c13cfb3cec404abf9b6e7c700b250e050f8874ef72133a0fd65898dff9acd"
 }
