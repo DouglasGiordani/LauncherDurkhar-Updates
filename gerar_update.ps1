@@ -15,7 +15,9 @@ Copy-Item "$src\CustomOverrides\battleplugin_opt.swf" "$tmp\CustomOverrides\batt
 Copy-Item "$src\CustomOverrides\DurkharPanel.swf" "$tmp\CustomOverrides\DurkharPanel.swf" -Force
 Copy-Item "$src\CustomOverrides\secretrollplugin.swf" "$tmp\CustomOverrides\secretrollplugin.swf" -Force
 Copy-Item "$src\CustomOverrides\19001001_outdoor.swf" "$tmp\CustomOverrides\19001001_outdoor.swf" -Force
-Copy-Item "$src\CustomOverrides\NinjaOutdoorEffectInfos.xml" "$tmp\CustomOverrides\NinjaOutdoorEffectInfos.xml" -Force
+# Efeitos (aura do Madara etc.): vai a copia FIXA "de todos" que fica no repositorio (publico\),
+# nao a da pasta do launcher. Assim as mudancas pessoais da vila da chuva nao vao para os jogadores.
+Copy-Item "$repo\publico\NinjaOutdoorEffectInfos.xml" "$tmp\CustomOverrides\NinjaOutdoorEffectInfos.xml" -Force
 # Ciclo dia/tarde/noite pela hora do servidor + sombras dos personagens
 Copy-Item "$src\CustomOverrides\mapplugin.swf" "$tmp\CustomOverrides\mapplugin.swf" -Force
 # Titulo 999999 com a arte original do jogo (substitui uma versao antiga personalizada)
