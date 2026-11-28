@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.22",
-    "notes":  "Botones de la barra separados, logo en la barra del juego y AUTO del Atrapa Tangyuan esquiva mejor las bombas",
+    "version":  "1.4.23",
+    "notes":  "Nuevo Panel de Cuentas con datos en vivo, barra renovada, novedades, música de YouTube, modo invierno y clima por aldea.",
     "zipUrl":  "https://raw.githubusercontent.com/DouglasGiordani/LauncherDurkhar-Updates/main/update.zip",
-    "sha256":  "987986dd123db3cfb1f5759bf0b310256e66263e7cdcb16917e8b98d172e7768"
+    "sha256":  "0791643842d78247def6cfa347bbda8bb20f09aa764fa600fbf9922dfcacaf8d"
 }

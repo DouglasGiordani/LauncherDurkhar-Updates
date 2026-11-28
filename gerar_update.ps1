@@ -20,6 +20,8 @@ Copy-Item "$src\CustomOverrides\19001001_outdoor.swf" "$tmp\CustomOverrides\1900
 Copy-Item "$repo\publico\NinjaOutdoorEffectInfos.xml" "$tmp\CustomOverrides\NinjaOutdoorEffectInfos.xml" -Force
 # Ciclo dia/tarde/noite pela hora do servidor + sombras dos personagens
 Copy-Item "$src\CustomOverrides\mapplugin.swf" "$tmp\CustomOverrides\mapplugin.swf" -Force
+# Modo inverno (Extras): mesmo mapa com neve no chao e nevando
+Copy-Item "$src\CustomOverrides\mapplugin_winter.swf" "$tmp\CustomOverrides\mapplugin_winter.swf" -Force
 # Titulo 999999 com a arte original do jogo (substitui uma versao antiga personalizada)
 Copy-Item "$src\CustomOverrides\999999.swf" "$tmp\CustomOverrides\999999.swf" -Force
 # Plugin de eventos: melhorias + eventos novos do servidor + AUTO no Entrenamiento de Ninjutsu
